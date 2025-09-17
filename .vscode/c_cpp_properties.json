@@ -3,8 +3,10 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**", 
-                "~/all/cpp/libs"
+                "${workspaceFolder}/**",
+                "~/all/cpp/libs",
+                "~/include/png++/",
+                "/home/may/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
